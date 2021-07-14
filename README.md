@@ -11,4 +11,4 @@ I will use this repo to put all my OpenGL projects here 🗳🍣
 
 #### Chess Board Preview
 
-<img width="550" src="https://github.com/Ruhul12/OpenGL/blob/main/img/Chess-Board-Project.JPG">
+<img width="650" src="https://github.com/Ruhul12/OpenGL/blob/main/img/Chess-Board-Project.JPG">

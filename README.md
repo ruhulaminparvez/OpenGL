@@ -5,10 +5,10 @@ I will use this repo to put all my OpenGL projects here 🗳🍣
 - [House Project](#house-preview)
 - [Chess Board Project](#chess-board-preview)
 
-### House Preview
+#### House Preview
 
 <img width="650" src="https://github.com/Ruhul12/OpenGL/blob/main/img/2D-House-Project.JPG">
 
-### Chess Board Preview
+#### Chess Board Preview
 
-<img width="650" src="https://github.com/Ruhul12/OpenGL/blob/main/img/Chess-Board-Project.JPG">
+<img width="450" src="https://github.com/Ruhul12/OpenGL/blob/main/img/Chess-Board-Project.JPG">

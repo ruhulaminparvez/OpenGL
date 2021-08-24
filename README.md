@@ -8,10 +8,9 @@ I will use this repo to put all my OpenGL projects here 🗳🍣
 - [Statellite-Station Project](#statellite-station-preview)
 
 #### House Preview
-
 <img width="650" src="img/2D-House-Project.JPG">
-#### Chess Board Preview
 
+#### Chess Board Preview
 <img width="650" src="img/Chess-Board-Project.JPG">
 
 #### Smart Village Preview

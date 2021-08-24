@@ -5,7 +5,7 @@ I will use this repo to put all my OpenGL projects here 🗳🍣
 - [House Project](#house-preview)
 - [Chess Board Project](#chess-board-preview)
 - [Smart Village Project](#smart-village-preview)
-- [Satellite-Station Project](#satellite-station-preview)
+- [Statellite-Station Project](#statellite-station-preview)
 
 #### House Preview
 
@@ -17,7 +17,7 @@ I will use this repo to put all my OpenGL projects here 🗳🍣
 #### Smart Village Preview
 <img width="650" src="img/smart-village.png">
 
-#### Satellite Station Preview
+#### Statellite Station Preview
 
 ##### Statellite Station
 <img width="650" src="img/stellite.png">

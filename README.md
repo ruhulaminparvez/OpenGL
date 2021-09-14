@@ -23,3 +23,6 @@ I will use this repo to put all my OpenGL projects here 🗳🍣
 
 ##### Data Transmission
 <img width="650" src="img/data-transmit.png">
+
+## Bugs
+> if there any known bugs found please let me know. Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Email: 👉 ruhulaminparvez007@gmail.com 😊 Thank you!
